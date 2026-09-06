@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ekran Yozuvchi</string>
+    <string name="start_recording">Yozishni boshlash</string>
+    <string name="stop_recording">Yozishni to\'xtatish</string>
+    <string name="notification_channel_name">Ekran yozish</string>
+    <string name="notification_text">Ekran yozilmoqda...</string>
+    <string name="ready_status">Tayyor</string>
+    <string name="recording_status">Yozilmoqda...</string>
+    <string name="stopping_status">To\'xtatilmoqda...</string>
+</resources>
